@@ -24,6 +24,8 @@ Visualized distributions and relationships (e.g., BMI vs. charges)
 Correlation heatmaps and pairplots for feature insights
 
 VIF analysis to detect multicollinearity
+
+
 ![Correlation Heatmap](correlation%20heatmap.png)
 
 🧠 Modeling Approach
@@ -39,8 +41,14 @@ R² Score, Mean Squared Error (MSE),RMSE
 
 📈 Results
 Achieved strong predictive performance with 82% r2 score.
+
+
 ![Residual Plot](residual.png)
+
+
+
 ![Regplot](regplot.png)
+
 
 🧪 Future Enhancements
 Add SHAP values for model interpretability
@@ -54,5 +62,6 @@ Python, pandas, NumPy, matplotlib, seaborn
 
 
 scikit-learn, Jupyter Notebook
+
 
 
