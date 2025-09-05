@@ -24,7 +24,7 @@ Visualized distributions and relationships (e.g., BMI vs. charges)
 Correlation heatmaps and pairplots for feature insights
 
 VIF analysis to detect multicollinearity
-![Correlation Heatmap](correlation%heatmap.png)
+![Correlation Heatmap](correlation%20heatmap.png)
 
 🧠 Modeling Approach
 Baseline: Linear Regression
@@ -54,4 +54,5 @@ Python, pandas, NumPy, matplotlib, seaborn
 
 
 scikit-learn, Jupyter Notebook
+
 
