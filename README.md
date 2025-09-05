@@ -60,8 +60,9 @@ Integrate with SQL database for real-time predictions
 🛠️ Tech Stack
 Python, pandas, NumPy, matplotlib, seaborn
 
-
 scikit-learn, Jupyter Notebook
 
+**Note**: If the notebook `insurance_charges_prediction.ipynb` does not load properly on GitHub, it's likely due to its size or the number of output cells.  
+> To view the full code and analysis, please **download the notebook** and open it locally using Jupyter Notebook or JupyterLab.
 
 
